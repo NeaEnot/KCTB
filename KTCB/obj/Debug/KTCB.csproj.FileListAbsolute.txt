@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\KTCB\KTCB\bin\Debug\KTCB.exe.config
+C:\Users\Максим\source\repos\KTCB\KTCB\bin\Debug\KTCB.exe
+C:\Users\Максим\source\repos\KTCB\KTCB\bin\Debug\KTCB.pdb
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.Properties.Resources.resources
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.exe
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.pdb
+C:\Users\Максим\source\repos\KTCB\KTCB\obj\Debug\KTCB.FormMain.resources
